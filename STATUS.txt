@@ -1,4 +1,0 @@
-TIME_PER_TRY=0.1
-COOKIE=
-KEY=
-
